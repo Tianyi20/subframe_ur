@@ -19,3 +19,9 @@ it type is geometry_msgs/WrenchStamped
 
 
 ![Screenshot from 2024-11-10 16-26-38](https://github.com/user-attachments/assets/c194775d-d06e-4bba-b784-e435635c8b93)
+
+the pre pouring pose 
+![Screenshot from 2024-11-10 20-45-40](https://github.com/user-attachments/assets/1a3b6b5f-507f-4991-a81d-7e33d1651fd5)
+
+here is the kettle's pose measured by virtual ee link
+![Screenshot from 2024-11-10 20-48-13](https://github.com/user-attachments/assets/7453a9a7-d4d0-4d9d-b07a-cf9eeb0906f9)
